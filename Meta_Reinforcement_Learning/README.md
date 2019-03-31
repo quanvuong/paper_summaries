@@ -1,6 +1,6 @@
 [Efficient_Off_Policy_Meta_Reinforcement_Learning_via_Probabilistic_Context_Variables](Efficient_Off_Policy_Meta_Reinforcement_Learning_via_Probabilistic_Context_Variables.pdf)
 
-- Uses a latent variable to summarize the data collected so far to summarize sufficient statistics about the current task.
+- Uses a latent variable to summarize the data collected so far into sufficient statistics about the current task.
 
 - The distribution over the latent variable conditioned on collected data is stochastic to encourage temporally correlated exploration.
 
