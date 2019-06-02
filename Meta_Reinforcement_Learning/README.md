@@ -16,7 +16,7 @@
 
 - The meta-parameters are trained using gradient, with can be obtained in closed form with approximations.
 
-[Exploiting_Hierarchy_for_Learning_and_Transfer_in_KL-regularized_RL](Exploiting hierarchy for learning and transfer in KL-regularized RL.pdf)
+[Exploiting_Hierarchy_for_Learning_and_Transfer_in_KL-regularized_RL](Exploiting_hierarchy_for_learning_and_transfer_in_KL_regularized_RL.pdf)
 
 - The policy has a hierarchical structure, comprising of a high-level policy, which is agnostic to low-level control
 and provides instruction to a low-level policy through a latent variable.
