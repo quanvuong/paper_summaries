@@ -15,3 +15,15 @@
 - Online cross-validation is used to ensure that no extra data is needed to train the meta-parameters.
 
 - The meta-parameters are trained using gradient, with can be obtained in closed form with approximations.
+
+[Exploiting_Hierarchy_for_Learning_and_Transfer_in_KL-regularized_RL](Exploiting hierarchy for learning and transfer in KL-regularized RL.pdf)
+
+- The policy has a hierarchical structure, comprising of a high-level policy, which is agnostic to low-level control
+and provides instruction to a low-level policy through a latent variable.
+
+- The objective function includes a KL regularization term to ensure the agent's policy does not stray too far
+from a default policy, which can be fixed or learnt.
+
+- Restricting information to either the high-level policy or the low-level policy leads to more robust behavior
+in the transfer setting.
+
