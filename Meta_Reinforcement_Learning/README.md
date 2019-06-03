@@ -41,7 +41,7 @@ in the transfer setting.
 
 - At test time, the corresponding task and robot modules are combined, demonstrated zero-shot capability.
 
-[Learning_Invariant_Feature_Spaces\342\200\223to_Transfer_Skills_with_Reinforcement_Learning](Learning_Invariant_Feature_Spaces\342\200\223to_Transfer_Skills_with_Reinforcement_Learning.pdf)
+[Learning_Invariant_Feature_Spaces_to_Transfer_Skills_with_Reinforcement_Learning](Learning_Invariant_Feature_Spaces_to_Transfer_Skills_with_Reinforcement_Learning.pdf)
 
 - Learn a feature space for the observation that is invariant to the specific robots.
 
