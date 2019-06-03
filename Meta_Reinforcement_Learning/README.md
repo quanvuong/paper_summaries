@@ -27,3 +27,12 @@ from a default policy, which can be fixed or learnt.
 - Restricting information to either the high-level policy or the low-level policy leads to more robust behavior
 in the transfer setting.
 
+[MCP_Learning_Composable_Hierarchical_Control_with_Multiplicative_Compositional_Policies](MCP_Learning_Composable_Hierarchical_Control_with_Multiplicative_Compositional_Policies.pdf)
+
+- The policy consists of multiple primitive policies, which are combined multiplicatively.
+
+- The policy is trained to perform well on motion imitation tasks, and then transfer to tasks with different goals.
+
+
+
+
