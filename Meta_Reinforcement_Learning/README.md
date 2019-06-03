@@ -33,6 +33,14 @@ in the transfer setting.
 
 - The policy is trained to perform well on motion imitation tasks, and then transfer to tasks with different goals.
 
+[Learning_Modular_Neural_Network_Policies_for_Multi_Task_and_Multi_Robot_Transfer](Learning_Modular_Neural_Network_Policies_for_Multi_Task_and_Multi_Robot_Transfer.pdf)
+
+- The policy consists of task-specific and robot-specific module.
+
+- Task-specific and robot-specific modules are trained to be invariant to a specific robot-task combination.
+
+- At test time, the corresponding task and robot modules are combined, demonstrated zero-shot capability.
+
 
 
 
