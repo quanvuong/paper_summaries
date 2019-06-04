@@ -47,8 +47,7 @@ in the transfer setting.
 
 - Try to do imitation learning to transfer from a source agent to a target agent having different morphologies.
 
-[Learning_to_Reinforcement_Learn]
-(Learning_to_Reinforcement_Learn.pdf)
+[Learning_to_Reinforcement_Learn](Learning_to_Reinforcement_Learn.pdf)
 
 - The policy is a recurrent NN.
 
