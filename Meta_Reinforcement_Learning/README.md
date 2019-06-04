@@ -47,5 +47,14 @@ in the transfer setting.
 
 - Try to do imitation learning to transfer from a source agent to a target agent having different morphologies.
 
+[Learning_to_Reinforcement_Learn]
+(Learning_to_Reinforcement_Learn.pdf)
+
+- The policy is a recurrent NN.
+
+- The key idea is that previous reward and action are inputted to the RNN at the current timestep.
+
+- Perform experiments on different types of bandits and MDPs to demonstrate different aspect of meta-RL.
+
 
 
