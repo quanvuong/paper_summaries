@@ -10,6 +10,8 @@ The summaries are organized based on research topics.
 
 [Model Free Reinforcement Learning](Model_Free_Reinforcement_Learning)
 
+[Model Based Reinforcement Learning](Model_Based_Reinforcement_Learning)
+
 [Meta Reinforcement Learning](Meta_Reinforcement_Learning)
 
 [Meta Learning](Meta_Learning)
