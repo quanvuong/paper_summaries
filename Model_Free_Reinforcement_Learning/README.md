@@ -8,4 +8,6 @@
 
 - This leads to action value over-estimation.
 
-- They show that decoupling action selection and evaluation reduces the degree of over-estimation and increases performance. 
+- They show that decoupling action selection and evaluation reduces the degree of over-estimation and increases performance.
+
+[Prioritized_Experience_Replay](Prioritized_Experience_Replay.pdf)
