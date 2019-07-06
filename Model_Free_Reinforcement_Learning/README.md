@@ -11,3 +11,9 @@
 - They show that decoupling action selection and evaluation reduces the degree of over-estimation and increases performance.
 
 [Prioritized_Experience_Replay](Prioritized_Experience_Replay.pdf)
+
+[Off_Policy_Deep_Reinforcement_Learning_without_Exploration](Off_Policy_Deep_Reinforcement_Learning_without_Exploration.pdf)
+
+- Studies the setting where only a replay buffer is available and the agent is not allowed to interact with the environment.
+
+- Proposes that the learnt agent should generate a state-action visitation frequency that is similar to the replay buffer.
