@@ -17,3 +17,9 @@
 - Studies the setting where only a replay buffer is available and the agent is not allowed to interact with the environment.
 
 - Proposes that the learnt agent should generate a state-action visitation frequency that is similar to the replay buffer.
+
+[Diagnosing_Bottlenecks_in_Deep_Q_learning_Algorithms](Diagnosing_Bottlenecks_in_Deep_Q_learning_Algorithms.pdf)
+
+- Identifies that the choice of the sampling distribution and architecture choice might play large roles in performance.
+
+- Identifies that convergence might not be an issue in deep Q-learning.
