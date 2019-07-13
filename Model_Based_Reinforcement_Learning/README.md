@@ -12,7 +12,7 @@
 
 - The visualization techniques look interesting and can be re-used in other studies.
 
-[Using_Inaccurate_Models_in_Reinforcement_Learning][Using_Inaccurate_Models_in_Reinforcement_Learning.pdf]
+[Using_Inaccurate_Models_in_Reinforcement_Learning](Using_Inaccurate_Models_in_Reinforcement_Learning.pdf)
 
 - Differentiate through the learnt model to obtain the policy gradient.
 
