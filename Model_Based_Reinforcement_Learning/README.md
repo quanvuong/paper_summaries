@@ -11,3 +11,9 @@
 - Visualizes the reward function surface and uses this visualization to justify their claims.
 
 - The visualization techniques look interesting and can be re-used in other studies.
+
+[Using_Inaccurate_Models_in_Reinforcement_Learning][Using_Inaccurate_Models_in_Reinforcement_Learning.pdf]
+
+- Differentiate through the learnt model to obtain the policy gradient.
+
+- Evaluate this policy gradient at a true trajectory to remove one source of gradient approximation error.
