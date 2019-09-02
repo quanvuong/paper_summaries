@@ -9,7 +9,7 @@ is used to reconstruct the target image given a relevant source image.
 - The Gaussian heatmap can be thought of as a bottleneck which forces the network
 to distills the geometry of the object.
 
-[Unsupervised_Learning_of_Object_Keypoints_for_Perception_and_Control.pdf](Unsupervised_Learning_of_Object_Keypoints_for_Perception_and_Control.pdf)
+[Unsupervised_Learning_of_Object_Keypoints_for_Perception_and_Control](Unsupervised_Learning_of_Object_Keypoints_for_Perception_and_Control.pdf)
 
 - Use unsupervised learning to detect keypoints, which are interpreted as concise object representations.
 
