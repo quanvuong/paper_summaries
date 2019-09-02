@@ -23,3 +23,9 @@
 - Identifies that the choice of the sampling distribution and architecture choice might play large roles in performance.
 
 - Identifies that convergence might not be an issue in deep Q-learning.
+
+[Visual_Reinforcement_Learning_with_Imagined_Goals](Visual_Reinforcement_Learning_with_Imagined_Goals.pdf)
+
+- Learning from images with a VAE
+
+- Self-supervised goal proposal and practice
