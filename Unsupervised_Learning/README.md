@@ -20,3 +20,13 @@ to distills the geometry of the object.
 - Benefit wrt RL: using the keypoints and corresponding image features enable more sample efficient RL.
 
 - Benefit wrt RL: exploration by controlling keypoints locations enables deeper exploration, reaching states not reached by random exploration.
+
+[Interpretable_Intuitive_Physics_Model](Interpretable_Intuitive_Physics_Model.pdf)
+
+- An interpretable intuitive physics model where dimensions in the bottleneck layer corresponds to different physical properties.
+
+- Intuitive as in the model is not able to predict the precise value of the physical properties, but still able to predict the approximate change in the world following a change in physical properties.
+
+- The NN architecture seems standard, the key to success is the training procedure and loss fnc.
+
+- Benefit is generalization to unseen conditions and interpretable latent dimensions. For example, the latent dimension can be interpolated, where interpolation in a specific dimension leads to meaningful and accurate change in the final prediction of the properties associated with that dimension.
