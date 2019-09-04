@@ -30,3 +30,12 @@ to distills the geometry of the object.
 - The NN architecture seems standard, the key to success is the training procedure and loss fnc.
 
 - Benefit is generalization to unseen conditions and interpretable latent dimensions. For example, the latent dimension can be interpolated, where interpolation in a specific dimension leads to meaningful and accurate change in the final prediction of the properties associated with that dimension.
+
+[Unsupervised_Learning_of_Disentangled_Representations_from_Video](Unsupervised_Learning_of_Disentangled_Representations_from_Video.pdf)
+
+- Unsupervised learning from video: learning features, without explicit label, that generalizes to previously unseen tasks.
+
+- They learn a disentangled representation of frame in a video by factorizing the representation into two components,
+time-independent and time-varying. They name the two components the content and pose latent representation respectively.
+
+- Their architecture is generic. What’s novel is the loss function and the simplicity of the approach.
