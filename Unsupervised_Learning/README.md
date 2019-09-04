@@ -39,3 +39,11 @@ to distills the geometry of the object.
 time-independent and time-varying. They name the two components the content and pose latent representation respectively.
 
 - Their architecture is generic. What’s novel is the loss function and the simplicity of the approach.
+
+[Representation_Learning_with_Contrastive_Predictive_Coding](Representation_Learning_with_Contrastive_Predictive_Coding.pdf)
+
+- Universal unsupervised learning from high-dimensional data. Universal as in domain-agnostic.
+
+- The goal is robust and generic representation learning. They argue that the problem of learning representation from labelled data is that the representation learnt is not generic: when pretraining a model on image classification, the features obtained might be good for related tasks, but does not include information that are more relevant to other tasks, such as color or object counting.
+
+- They combine predictive coding and noise contrastive estimation.
