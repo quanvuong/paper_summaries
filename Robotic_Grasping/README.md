@@ -4,3 +4,6 @@
 
 - Leverage a large dataset of obj-grasp-grasp quality to reduce the number of grasp evaluations required to find the optimal grasp.
 
+[Supersizing_Self_supervision_Learning_to_Grasp_from_50K_Tries_and_700_Robot_Hours](Supersizing_Self_supervision_Learning_to_Grasp_from_50K_Tries_and_700_Robot_Hours.pdf)
+
+- Autonomous large-scale dataset collection for robotic grasping through trial and error.
