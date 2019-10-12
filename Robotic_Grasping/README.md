@@ -38,8 +38,7 @@
 
 - The method learns servo the robotic gripper to position where grasps are likely to be successful.
 
-[Learning_Synergies_between_Pushing_and_Grasping_with_Self_supervised_Deep_Reinforcement_Learning]
-(Learning_Synergies_between_Pushing_and_Grasping_with_Self_supervised_Deep_Reinforcement_Learning.pdf)
+[Learning_Synergies_between_Pushing_and_Grasping_with_Self_supervised_Deep_Reinforcement_Learning](Learning_Synergies_between_Pushing_and_Grasping_with_Self_supervised_Deep_Reinforcement_Learning.pdf)
 
 - Learns how to combine individually parameterized grasping policy and pushing policy.
 
