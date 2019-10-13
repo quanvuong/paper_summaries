@@ -12,3 +12,8 @@
 
 - At each iteration, we can sample state by performing goal-directed exploration. How do we construct the goal proposal distribution at each iteration such that it converges to the uniform dist. over the set of possible goals over time?
 
+[Visual_Reinforcement_Learning_with_Imagined_Goals](Visual_Reinforcement_Learning_with_Imagined_Goals.pdf)
+
+- Learning from images with a VAE
+
+- Self-supervised goal proposal and practice
