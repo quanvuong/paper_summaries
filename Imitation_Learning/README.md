@@ -10,5 +10,13 @@
 
 - Use the proprioceptive state instead of visual observation as input into the imitator.
 
+[One_Shot_Hierarchical_Imitation_Learning_of_Compound_Visuomotor_Tasks](One_Shot_Hierarchical_Imitation_Learning_of_Compound_Visuomotor_Tasks.pdf)
+
+- The goal is to learn multi-state vision-based tasks from a single video of a human performing the task.
+
+- They argue that for task which can be decomposed into primitive skills, it is better to learn the primitive skills and how to compose them than learning how to perform the task directly.
+
+- Given a test-time video of human performing the task with compositional structure, they first segment it into primitive segments where each primitive segment requires the execution of one primitive skill. Each segment is then used to obtain the policy to perform the primitive skill through an adaptation procedures.
+
 
 
