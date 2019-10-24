@@ -11,3 +11,11 @@
 - The controller learns a representation of an input, binds the representation of this input to a its class label, and put the binding in the external memory.
 
 - During test time, given an input, the controller should retrieve a label from the external memory.
+
+[Meta_Learning_with_Differentiable_Convex_Optimization]
+
+- Proposes to use a SVM as the base learner.
+
+- The SVM formulations allows for obtaining the derivative of the post-update policy loss wrt the meta parameters.
+
+- However, the paper does not explain why the method proposes work better than gradient-based method.
