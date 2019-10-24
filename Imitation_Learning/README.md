@@ -18,5 +18,15 @@
 
 - Given a test-time video of human performing the task with compositional structure, they first segment it into primitive segments where each primitive segment requires the execution of one primitive skill. Each segment is then used to obtain the policy to perform the primitive skill through an adaptation procedures.
 
+[Playing_hard_exploration_games_by_watching_YouTube](Playing_hard_exploration_games_by_watching_YouTube.pdf)
+
+- Imitation learning with access to the expert's actions and rewards is too restrictive.
+
+- They propose a 2-stage method that does away with these 2 assumptions by relying on unaligned footage.
+
+- They first learn to map unaligned videos from multiple sources to a common representation using a self-supervised objective constructed over both time (temporal distance classification) and modality (cross-model temporal classification).
+
+- They then embed a single Youtube video in this representation to construct a reward function that encourages an agent to imitation human gameplay.
+
 
 
