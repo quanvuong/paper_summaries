@@ -23,3 +23,5 @@ The summaries are organized based on research topics.
 [Goal Conditioned RL](Goal_Conditioned_RL)
 
 [Imitation Learning](Imitation_Learning)
+
+[Object Centric Representation and Intuitive Physics](Object_centric_and_intuitive_physics)
