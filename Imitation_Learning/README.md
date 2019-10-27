@@ -28,5 +28,14 @@
 
 - They then embed a single Youtube video in this representation to construct a reward function that encourages an agent to imitation human gameplay.
 
+[goal_conditioned_imitation_learning](goal_conditioned_imitation_learning.pdf)
+
+- Goal-reaching practice is an effective form of self-supervised learning for robotics.
+
+- But defining a reward fun. in high dimensional space is hard.
+
+- The breath first nature of existing strategy (HER) means that some areas of the state space takes a long time to learn.
+
+- They propose goalGAIL, which can boost goal-conditioned policy learning with only state demonstrations.
 
 
