@@ -38,4 +38,10 @@
 
 - They propose goalGAIL, which can boost goal-conditioned policy learning with only state demonstrations.
 
+[Reinforcement_and_Imitation_Learning_for_Diverse_Visuomotor_Skills](Reinforcement_and_Imitation_Learning_for_Diverse_Visuomotor_Skills.pdf)
 
+- Use demonstration to speed up training of RL policies in simulation.
+
+- Leverage privileged and task-specific information to speed up training in simulation.
+
+- Some success in zero-shot sim2real transfer.
