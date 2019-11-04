@@ -1,0 +1,8 @@
+[Learning_Quickly_When_Irrelevant_Attributes_Abound_A_New_Linear_threshold_Algorithm](Learning_Quickly_When_Irrelevant_Attributes_Abound_A_New_Linear_threshold_Algorithm.pdf)
+
+[THEORY_OF_CLASSIFICATION_A_SURVEY_OF_SOME_RECENT_ADVANCES](THEORY_OF_CLASSIFICATION_A_SURVEY_OF_SOME_RECENT_ADVANCES.pdf)
+
+
+
+
+
