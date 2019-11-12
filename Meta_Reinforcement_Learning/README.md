@@ -55,5 +55,5 @@ in the transfer setting.
 
 - Perform experiments on different types of bandits and MDPs to demonstrate different aspect of meta-RL.
 
-
+[Meta_World_A_Benchmark_and_Evaluation_for_Multi_Task_and_Meta_Reinforcement_Learning](Meta_World_A_Benchmark_and_Evaluation_for_Multi_Task_and_Meta_Reinforcement_Learning.pdf)
 
