@@ -9,3 +9,5 @@
 [Transfer_Learning](Transfer_Learning)
 
 [Unsupervised_Learning](Unsupervised_Learning)
+
+[Architecture](Architecture)
