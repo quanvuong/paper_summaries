@@ -1,1 +1,3 @@
 [EfficientDet_Scalable_and_Efficient_Object_Detection](EfficientDet_Scalable_and_Efficient_Object_Detection)
+
+[Faster_R_CNN](Faster_R_CNN.pdf)
