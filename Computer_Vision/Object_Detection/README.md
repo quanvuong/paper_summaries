@@ -3,3 +3,5 @@
 [Faster_R_CNN](Faster_R_CNN.pdf)
 
 [R_CNN](R_CNN.pdf)
+
+[Fast_R_CNN](Fast_R_CNN.pdf)
