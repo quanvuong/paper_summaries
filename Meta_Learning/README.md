@@ -19,3 +19,5 @@
 - The SVM formulations allows for obtaining the derivative of the post-update policy loss wrt the meta parameters.
 
 - However, the paper does not explain why the method proposes work better than gradient-based method.
+
+[Learning_to_learn_by_gradient_descent_by_gradient_descent](Learning_to_learn_by_gradient_descent_by_gradient_descent.pdf)
