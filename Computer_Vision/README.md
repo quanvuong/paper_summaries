@@ -14,4 +14,4 @@
 
 [Object_Detection](Object_Detection)
 
-[Face_Model](Face_Model)
+[Application_Specific](Application_Specific)
