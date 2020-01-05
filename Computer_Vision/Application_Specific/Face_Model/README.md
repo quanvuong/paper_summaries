@@ -1,1 +1,3 @@
 [Deep_Face_Recognition](Deep_Face_Recognition.pdf)
+
+[Self_supervised_learning_of_a_facial_attribute_embedding_from_video](Self_supervised_learning_of_a_facial_attribute_embedding_from_video.pdf)
