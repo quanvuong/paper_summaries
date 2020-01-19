@@ -1,1 +1,3 @@
 [Stochastic_Video_Generation_with_a_Learned_Prior](Stochastic_Video_Generation_with_a_Learned_Prior)
+
+[High_Fidelity_Video_Prediction_with_Large_Stochastic_RNN](High_Fidelity_Video_Prediction_with_Large_Stochastic_RNN)
