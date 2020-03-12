@@ -49,3 +49,5 @@ time-independent and time-varying. They name the two components the content and 
 - They combine predictive coding and noise contrastive estimation.
 
 [FastICA](FastICA)
+
+[Unsupervised Visual Representation Learning by Context Prediction](Unsupervised Visual Representation Learning by Context Prediction)
