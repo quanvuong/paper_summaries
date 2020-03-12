@@ -50,4 +50,4 @@ time-independent and time-varying. They name the two components the content and 
 
 [FastICA](FastICA)
 
-[Unsupervised Visual Representation Learning by Context Prediction](Unsupervised Visual Representation Learning by Context Prediction)
+[Unsupervised Visual Representation Learning by Context Prediction](Unsupervised_Visual_Representation_Learning_by_Context_Prediction)
