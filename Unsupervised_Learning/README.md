@@ -47,3 +47,5 @@ time-independent and time-varying. They name the two components the content and 
 - The goal is robust and generic representation learning. They argue that the problem of learning representation from labelled data is that the representation learnt is not generic: when pretraining a model on image classification, the features obtained might be good for related tasks, but does not include information that are more relevant to other tasks, such as color or object counting.
 
 - They combine predictive coding and noise contrastive estimation.
+
+[FastICA](FastICA)
