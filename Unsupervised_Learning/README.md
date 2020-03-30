@@ -53,3 +53,5 @@ time-independent and time-varying. They name the two components the content and 
 [Unsupervised Visual Representation Learning by Context Prediction](Unsupervised_Visual_Representation_Learning_by_Context_Prediction)
 
 [Unsupervised_Learning_of_Visual_Representations_by_Solving_Jigsaw_Puzzles](Unsupervised_Learning_of_Visual_Representations_by_Solving_Jigsaw_Puzzles)
+
+[Unsupervised_Representation_Learning_by_Predicting_Image_Rotations](Unsupervised_Representation_Learning_by_Predicting_Image_Rotations)
